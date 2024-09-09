@@ -41,12 +41,12 @@ Relatório do Projeto HexagonApp
     - Ambas as telas utilizam LazyColumn para exibir lista de usuário e permitem alternar o status de
  atividade do usuário.
  4. Navegação
-  - Utiliza NavHost e NavController para gerenciar a navegação entre as telas.
-  - Navegação configurada para permitir a transição entre a tela principal, inserção, edição e
- visualização de usuário inativo.
+    - Utiliza NavHost e NavController para gerenciar a navegação entre as telas.
+    - Navegação configurada para permitir a transição entre a tela principal, inserção, edição e
+      visualização de usuário inativo.
  5. Injeção de Dependência
-  - Configuração do Dagger Hilt para fornecer instância de UserDao e AppDatabase.
-  - Anotação @HiltViewModel para ViewModel, permitindo a injeção de dependência.
+    - Configuração do Dagger Hilt para fornecer instância de UserDao e AppDatabase.
+    - Anotação @HiltViewModel para ViewModel, permitindo a injeção de dependência.
  6. Armazenamento de Dado
-  - Configuração do Room com a entidade User e o DAO UserDao.
-  - - Utilização de coroutines para operação de banco de dado assíncrona.
+    - Configuração do Room com a entidade User e o DAO UserDao.
+    - Utilização de coroutines para operação de banco de dado assíncrona.
