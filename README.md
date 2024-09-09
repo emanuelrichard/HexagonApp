@@ -1,5 +1,4 @@
 # HexagonApp
-Relatório do Projeto HexagonApp
  Relatório do Projeto HexagonApp
  # Descrição Geral
  O HexagonApp é um aplicativo Android desenvolvido para gerenciar um usuário, permitindo a
